@@ -76,44 +76,44 @@
 - sudo apt install nano
 - sudo apt install mcedit
 ## Запись никнейма в файлы и закрытие с сохранением
-- VIM
+- VIM  
 ![](screenshots/7_1.png)   
 ***Для выхода с сохранением нужно нажать Esc, затем написать :wq***
-- Nano
+- Nano  
 ![](screenshots/7_2.png)   
 ***Для выхода с сохранением нужно выполнить Ctrl+S и Ctrl+X***
-- MCEDIT
+- MCEDIT  
 ![](screenshots/7_3.png)   
 ![](screenshots/7_4.png)   
 ***Для выхода с сохранением необходимо нажать F10 и выбрать yes***
 ## Запись текста "21 School 21" в файлы и выход без сохранения
-- VIM
+- VIM  
 ![](screenshots/7_5.png)   
 ![](screenshots/7_6.png)   
 ***Для выхода без сохранения нужно нажать Esc, затем написать :q!***
-- Nano
+- Nano  
 ![](screenshots/7_7.png)   
 ![](screenshots/7_8.png)   
 ***Для выхода без сохранения нужно нажать Esc, затем Ctrl + X***
-- MCEDIT
+- MCEDIT  
 ![](screenshots/7_9.png)   
 ![](screenshots/7_10.png)   
 ![](screenshots/7_11.png)   
 ***Для выхода без сохранения нужно нажать F10, затем выбрать No***
 ## Поиск по слову в файлах
-- VIM
+- VIM  
 **Поиск: Esc + /<word_to_search>**
 ![](screenshots/7_12.png)   
 **Замена: :%s/<change_this>/<to_this>**
 ![](screenshots/7_13.png)   
-- Nano
+- Nano  
 **Поиск: Ctrl + W**
 ![](screenshots/7_14.png)   
 ![](screenshots/7_15.png)   
 **Замена: Ctrl + \ **
 ![](screenshots/7_16.png)   
 ![](screenshots/7_17.png)   
-- MCEDIT
+- MCEDIT  
 **Поиск: F7**
 ![](screenshots/7_18.png)   
 ![](screenshots/7_19.png)   
