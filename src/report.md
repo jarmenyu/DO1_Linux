@@ -110,7 +110,7 @@
 **Поиск: Ctrl + W**  
 ![](screenshots/7_14.png)   
 ![](screenshots/7_15.png)   
-**Замена: Ctrl + \ **
+**Замена: Ctrl + \**  
 ![](screenshots/7_16.png)   
 ![](screenshots/7_17.png)   
 - MCEDIT  
