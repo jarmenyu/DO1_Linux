@@ -194,7 +194,7 @@
 ![](screenshots/9_5.png)   
 **htop, отфильтрованный для процесса sshd**
 ![](screenshots/9_6.png)   
-**htop с процессом syslog**
+**htop с процессом syslog**  
 ![](screenshots/9_7.png)   
 **htop с добавленным выводом hostname, clock и uptime**
 ![](screenshots/9_8.png)   
