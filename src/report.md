@@ -102,22 +102,22 @@
 ***Для выхода без сохранения нужно нажать F10, затем выбрать No***
 ## Поиск по слову в файлах
 - VIM  
-**Поиск: Esc + /<word_to_search>**
+**Поиск: Esc + /<word_to_search>**  
 ![](screenshots/7_12.png)   
-**Замена: :%s/<change_this>/<to_this>**
+**Замена: :%s/<change_this>/<to_this>**  
 ![](screenshots/7_13.png)   
 - Nano  
-**Поиск: Ctrl + W**
+**Поиск: Ctrl + W**  
 ![](screenshots/7_14.png)   
 ![](screenshots/7_15.png)   
 **Замена: Ctrl + \ **
 ![](screenshots/7_16.png)   
 ![](screenshots/7_17.png)   
 - MCEDIT  
-**Поиск: F7**
+**Поиск: F7**  
 ![](screenshots/7_18.png)   
 ![](screenshots/7_19.png)   
-**Замена: F4**
+**Замена: F4**  
 ![](screenshots/7_20.png)   
 ![](screenshots/7_21.png)   
 ![](screenshots/7_22.png)   
